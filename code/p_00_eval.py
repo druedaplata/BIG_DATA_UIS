@@ -10,7 +10,7 @@ output_sm="""\
 from checks import *
 max_score = 1
 score     = 0
-score += check_function(suma_matrices, input_sm, output_sm)
+score += check_function(suma_matrices, input_sm, output_sm) if "suma_matrices" in locals() else 0
 
 print "---"
 print "calificacion: "+str(score*100/max_score)+"%"

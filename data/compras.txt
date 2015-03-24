@@ -27,5 +27,4 @@
 2012-01-01 15:22 BGA Libros 0.79 MasterCard
 2012-01-01 15:51 BOG Libros 74.13 Efectivo
 2012-01-01 16:01 MED Libros 92.19 MasterCard
-2012-01-01 16:26 MED Musica 246.12 Efectivo
-
+2012-01-01 16:26 MED Musica 2246.12 Efectivo

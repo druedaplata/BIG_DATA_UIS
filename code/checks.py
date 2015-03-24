@@ -1,16 +1,22 @@
 import cStringIO
 import numpy as np
 import subprocess
+import os
 
 def check_function(f, input, output):
     buf = cStringIO.StringIO()
 
-    for i in input.split("\n"):
+    fname = f.__name__
+
+    try: 
+      for i in input.split("\n"):
         if len(i.rstrip())!=0:
             print >> buf, f(**eval(i))
+    except Exception as e:
+      print fname, "** DEFINICION INCORRECTA **"
+      return False
 
     r = buf.getvalue()==output
-    fname = "funcion '"+f.__name__+"'"
     if r:
        print fname,"correcto!!"
     else:

@@ -55,10 +55,10 @@ output_sel="""\
 from checks import *
 max_score = 4
 score     = 0
-score += check_function(single_value_matrix, input_svm, output_svm)
-score += check_function(sum_squared_difference, input_ssd, output_ssd)
-score += check_function(seleccion_mayor, input_sel, output_sel)
-score += check_function(means_stds, input_ms, output_ms)
+score += check_function(single_value_matrix, input_svm, output_svm) if "single_value_matrix" in locals() else 0
+score += check_function(sum_squared_difference, input_ssd, output_ssd) if "sum_squared_difference"  in locals() else 0
+score += check_function(seleccion_mayor, input_sel, output_sel) if "seleccion_mayor"  in locals() else 0
+score += check_function(means_stds, input_ms, output_ms) if "means_stds" in locals() else 0
 
 print "---"
 print "calificacion: %d/%d (%.0f"%(score, max_score, score*100/max_score)+"%)"
