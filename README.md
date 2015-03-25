@@ -10,6 +10,11 @@ Haz un clon de este repositorio para tener tu copia local y trabajar sobre las p
 
 `git clone https://bitbucket.org/rramosp/20151.bigd.uis.pre.git`
 
+Cuando hagamos quizes, este es el repositorio que deberás clonar:
+
+`git clone https://bitbucket.org/rramosp/20151.bigd.uis.pre-quiz.git`
+
+
 estamos trabajando sobre una máquina virtual con [Python Anaconda](http://continuum.io/), [mrjob](https://pythonhosted.org/mrjob/), [Hadoop](https://hadoop.apache.org/) y [Ambari](http://ambari.apache.org/). Contáctame para más información.
 
 ## Contenido
