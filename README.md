@@ -10,6 +10,11 @@ Haz un clon de este repositorio para tener tu copia local y trabajar sobre las p
 
 `git clone https://bitbucket.org/rramosp/20151.bigd.uis.pre.git`
 
+Cuando hagamos quizes, este es el repositorio que deberás clonar:
+
+`git clone https://bitbucket.org/rramosp/20151.bigd.uis.pre-quiz.git`
+
+
 estamos trabajando sobre una máquina virtual con [Python Anaconda](http://continuum.io/), [mrjob](https://pythonhosted.org/mrjob/), [Hadoop](https://hadoop.apache.org/) y [Ambari](http://ambari.apache.org/). Contáctame para más información.
 
 ## Contenido
@@ -24,8 +29,8 @@ Ley de Amdahl - Escalabilidad horizontal y vertical - Cómputo hacia los datos -
 ### 2. Map-reduce
 Modelos de programación - Mapreduce - Mrjob - Instrumentación - Runners - Combiners
 
-[Notas 02 - Map reduce](https://bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2002%20-%20Map-Reduce.ipynb) ---
-Problem Set 02A - Map reduce básico ---
+[Notas 02 - Map reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2002%20-%20Map-Reduce.ipynb) ---
+[Problem Set 02A - Map reduce básico](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2002A%20-%20Map-Reduce%20I.ipynb) ---
 Problem Set 02B - Map reduce avanzado
 
 ---
