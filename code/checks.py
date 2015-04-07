@@ -28,7 +28,7 @@ def check_script(script, input, output):
 
     s=cStringIO.StringIO(input)
 
-    p = subprocess.Popen(['python', script], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+    p = subprocess.Popen(['/opt/anaconda/bin/python', script], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     poutput, poutput_err = p.communicate(s.read())
     fname = "script '"+script+"'"
     r = output==poutput
