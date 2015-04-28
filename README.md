@@ -36,7 +36,7 @@ Modelos de programación - Mapreduce - Mrjob - Instrumentación - Runners - Comb
 ### 3. Page rank
 Grafo de colecciones de documentos - Valores y vectores propios - Flujos de trabajo Map-reduce 
 
-[Notas 03 - Page Rank](https://bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003%20-%20Page%20rank.ipynb) -- [Notas 03B - Flujos de trabajo map reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003B%20-%20Flujos%20de%20Tareas%20Map%20Reduce.ipynb/%3Fat%3Dmaster) --[Problem Set 03 - Page rank con Map-Reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2003%20-%20Page%20Rank%20con%20Map%20Reduce.ipynb/%3Fat%3Dmaster)
+[Notas 03 - Page Rank](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003%20-%20Page%20rank.ipynb) -- [Notas 03B - Flujos de trabajo map reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003B%20-%20Flujos%20de%20Tareas%20Map%20Reduce.ipynb/%3Fat%3Dmaster) --[Problem Set 03 - Page rank con Map-Reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2003%20-%20Page%20Rank%20con%20Map%20Reduce.ipynb/%3Fat%3Dmaster)
 
 ### 4. Searching
 Locality Sensitive Hashing - Resultados teóricos - LSH para distancias Hamming, euclideana y coseno 
