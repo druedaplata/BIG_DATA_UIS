@@ -31,7 +31,17 @@ Modelos de programación - Mapreduce - Mrjob - Instrumentación - Runners - Comb
 
 [Notas 02 - Map reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2002%20-%20Map-Reduce.ipynb) ---
 [Problem Set 02A - Map reduce básico](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2002A%20-%20Map-Reduce%20I.ipynb) ---
-Problem Set 02B - Map reduce avanzado
+[Problem Set 02B - Map reduce avanzado](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2002B%20-%20Map-Reduce%20II.ipynb/%3Fat%3Dmaster)
+
+### 3. Page rank
+Grafo de colecciones de documentos - Valores y vectores propios - Flujos de trabajo Map-reduce 
+
+[Notas 03 - Page Rank](https://bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003%20-%20Page%20rank.ipynb) -- [Notas 03B - Flujos de trabajo map reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003B%20-%20Flujos%20de%20Tareas%20Map%20Reduce.ipynb/%3Fat%3Dmaster) --[Problem Set 03 - Page rank con Map-Reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2003%20-%20Page%20Rank%20con%20Map%20Reduce.ipynb/%3Fat%3Dmaster)
+
+### 4. Searching
+Locality Sensitive Hashing - Resultados teóricos - LSH para distancias Hamming, euclideana y coseno 
+
+[Notas 04 - Locality Sensitive Hashing](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2004%20-%20Locality%20Sensitive%20Hashing.ipynb) -- [Problem Set 04 - Locality Sensitive Hashing](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2004%20-%20Locality%20Sensitive%20Hashing.ipynb/%3Fat%3Dmaster)
 
 ---
 
