@@ -43,6 +43,11 @@ Locality Sensitive Hashing - Familias de funciones LSH y distancias - Aumentaci�
 
 [Notas 04 - Locality Sensitive Hashing](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2004%20-%20Locality%20Sensitive%20Hashing.ipynb) -- [Problem Set 04 - LSH para distancia euclidiana](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2004%20-%20Locality%20Sensitive%20Hashing.ipynb/%3Fat%3Dmaster)
 
+### 5. Hadoop
+Arquitectura de Hadoop - Configuración y lanzamiento de jobs - integración mr-job - Jobs en Java
+
+[Notas 05 - Intro to Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/d168637cc0a48d249bc6ef02724eec4f1b982be0/Notas%2005%20-%20Intro%20to%20Hadoop.ipynb)
+
 ---
 
 Calificación | Fechas
