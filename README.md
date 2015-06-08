@@ -46,7 +46,7 @@ Locality Sensitive Hashing - Familias de funciones LSH y distancias - Aumentaci�
 ### 5. Hadoop
 Arquitectura de Hadoop - Configuración y lanzamiento de jobs - integración mr-job - Jobs en Java
 
-[Notas 05 - Intro to Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/d168637cc0a48d249bc6ef02724eec4f1b982be0/Notas%2005%20-%20Intro%20to%20Hadoop.ipynb)
+[Notas 05 - Intro to Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2005%20-%20Intro%20to%20Hadoop.ipynb) -- [Problem Set 05 - Page Rank con Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2005%20-%20Page%20Rank%20sobre%20Hadoop.ipynb)
 
 ---
 
