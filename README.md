@@ -48,6 +48,16 @@ Arquitectura de Hadoop - Configuración y lanzamiento de jobs - integración mr-
 
 [Notas 05 - Intro to Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2005%20-%20Intro%20to%20Hadoop.ipynb) -- [Problem Set 05 - Page Rank con Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2005%20-%20Page%20Rank%20sobre%20Hadoop.ipynb)
 
+### 6. Herramientas sobre Hadoop
+PIG - HIVE
+
+[Notas 06A - PIG](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2006A%20-%20PIG.ipynb) [Notas 06B - Hive](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2006B%20-%20HIVE.ipynb) -- [Problem Set 06A - PIG](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2006A%20-%20PIG.ipynb) [Problem Set 06B - HIVE](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2006B%20-%20HIVE.ipynb)
+
+### 7. NoSQL
+Introducción a NoSQL - Tipos de bases de datos NoSQL - Expresividad vs Escalabilidad
+
+[Notas 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2007A%20-%20NoSQL%20Cassandra.ipynb) -- [Problem Set 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2007A%20-%20NoSQL%20Cassandra.ipynb)
+
 ---
 
 Calificación | Fechas
