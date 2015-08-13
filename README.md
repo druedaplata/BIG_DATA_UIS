@@ -55,7 +55,8 @@ PIG - HIVE
 
 ### 7. NoSQL
 Introducción a NoSQL - Tipos de bases de datos NoSQL - Expresividad vs Escalabilidad
-[Notas 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/)[Notas%2007A%20-%20NoSQL%20Cassandra.ipynb] -- [Problem Set 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2007A%20-%20NoSQL%20Cassandra.ipynb)
+
+[Notas 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/)[http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/masterNotas%2007A%20-%20NoSQL%20Cassandra.ipynb] -- [Problem Set 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2007A%20-%20NoSQL%20Cassandra.ipynb)
 
 ---
 
