@@ -58,6 +58,13 @@ Introducción a NoSQL - Tipos de bases de datos NoSQL - Expresividad vs Escalabi
 
 [Notas 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2007A%20-%20NoSQL%20Cassandra.ipynb) -- [Problem Set 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2007A%20-%20NoSQL%20Cassandra.ipynb)
 
+### 8. Apache Spark
+Introducción a Apache Spark - Acciones y Transformaciones - Data caching
+
+[Notas 08 - Spark](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2008A%20-%20Spark%20-%20spark_tutorial_student.ipynb?at=master)
+
+Problem sets en el curso [Scalable Machine Learning de EDX](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x)
+
 ---
 
 Calificación | Fechas
